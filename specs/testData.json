@@ -1,0 +1,28 @@
+[
+  {
+    "postID": 1,
+    "invalidID": 0,
+    "invalidUserID": 0,
+    "userID": 1,
+    "title": "newTitle1",
+    "body": "newBody1"
+  },
+  {
+    "postID": 3,
+    "invalidID": 999999,
+    "invalidUserID": 99999,
+    "userID": 3,
+    "title": "newTitle2",
+    "body": "newBody2"
+    
+  },
+  {
+    "postID": 5,
+    "invalidID": -5,
+    "invalidUserID": -5,
+    "userID": 6,
+    "title": "newTitle3",
+    "body": "newBody3"
+    
+  }
+]
